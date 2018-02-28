@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="scala/|scala/collection/" kind="src" path=".ensime_cache/dep-src/source-jars"/>
+	<classpathentry excluding="collection/" kind="src" path=".ensime_cache/dep-src/source-jars/scala"/>
+	<classpathentry kind="src" path=".ensime_cache/dep-src/source-jars/scala/collection"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
